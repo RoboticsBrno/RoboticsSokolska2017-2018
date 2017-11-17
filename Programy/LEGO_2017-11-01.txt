@@ -1,0 +1,14 @@
+Ultrazvuk
+<3 - 255> 
+3 - blizko prekazky
+255 - daleko od prekazky
+
+my chceme na motorech
+100 - blizko u prekazky
+0 - daleko od prekazky 
+
+a - b -> =
+a = 255
+b = Ultrazvuk - 0 , 255
+b = 0:	 255 - 	0 	-> 255
+b = 255: 255 - 255	-> 0 
